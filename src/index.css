@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap");
 
 :root {
   /* Primary */
@@ -24,7 +24,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 28px;
   overflow: hidden;
 }
 
@@ -57,6 +56,16 @@ body {
   background-color: var(--neon-green);
 }
 
+.advice__id {
+  color: var(--neon-green);
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
 .advice {
   padding: 1rem 0 2rem 0;
+  color: var(--light-cyan);
+  font-size: 28px;
+  word-wrap: break-word;
+  font-weight: 800;
 }

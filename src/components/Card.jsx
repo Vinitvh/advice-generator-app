@@ -21,7 +21,7 @@ function Card() {
   return (
     <div className="container">
       <div className="card">
-        <p className="advice__id">Advice {`#${advice.id}`}</p>
+        <p className="advice__id">ADVICE {`#${advice.id}`}</p>
         <p className="advice">"{advice.advice}"</p>
         <img src={"assets/pattern-divider-desktop.svg"} alt="Divider" />
         <div className="dice">
