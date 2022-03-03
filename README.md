@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](https://i.postimg.cc/zGRcdN0Z/advice.jpg)](https://postimg.cc/PCTyxBg2)
+![Desktop](https://i.postimg.cc/zGRcdN0Z/advice.jpg)
 
 ### Links
 
